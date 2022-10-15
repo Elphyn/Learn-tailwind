@@ -9,6 +9,7 @@ module.exports = {
         primaly: '#23252C',
         secondary: '#1A1B21',
         thrid: '#F47D27',
+        forth: '#D5D4D8',
       }
     },
   },
